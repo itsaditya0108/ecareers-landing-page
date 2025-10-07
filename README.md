@@ -142,6 +142,4 @@ If you want to customize Tailwind's default settings (colors, fonts, breakpoints
 
 Aditya 👨‍💻
 
----
 
-This version of the `README.md` should now be tailored to your **React** app with **Tailwind CSS** and **React Hooks**. It's clear and gives potential contributors or users a good idea of how to work with and deploy the project. Let me know if you'd like any more details added or if you'd like further adjustments!
