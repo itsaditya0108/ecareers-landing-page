@@ -35,7 +35,7 @@ It showcases a responsive and interactive landing page with a form, validation, 
 ## 🚀 Live Demo
 
 You can view the live project here:
-🔗 [View on Netlify](https://ecareers-homepage.netlify.app/)
+🔗 [View on Netlify](https://ecarerrs-landing-page.netlify.app/)
 
 ---
 
@@ -141,5 +141,6 @@ If you want to customize Tailwind's default settings (colors, fonts, breakpoints
 ## 🤖 Developed By
 
 Aditya 👨‍💻
+
 
 
